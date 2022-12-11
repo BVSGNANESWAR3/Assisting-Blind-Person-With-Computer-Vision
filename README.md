@@ -23,6 +23,6 @@ Mini-Project Semester 7 by: K.Rithvik, MahidharAlam, B.V.S.GNANESWAR Under Guida
 - Label a single frame of a video, the IAL tool labels the all other frames of the video using AI.
 - Around 60 videos of different cases such that they include various labels were shot each around 20 seconds.
 - All the parameters's values in IAL were set to default values.
-- FINAL DATASET : (paste the link here)
+- FINAL DATASET : (https://drive.google.com/file/d/1AcIgkZ2v8I1aRlVnx646QaecJTgzGWHH/view?usp=share_link)
 
 
